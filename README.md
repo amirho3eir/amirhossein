@@ -1,0 +1,2 @@
+# amirhossein
+setting up git
